@@ -19,6 +19,11 @@ if unequal they flip back down
 
 Game ends when no cards are left. 
 
+## Technology used
+```
+Create react app, React, underscore library, jest and enzyme (unit testing)
+```
+
 ## Notes
 
 Things I would add with more time:
