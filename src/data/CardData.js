@@ -1,0 +1,28 @@
+const data = [
+  { id: 0, value: 0, label: 0, selected: false, matched: false },
+  { id: 1, value: 0, label: 0, selected: false, matched: false },
+  { id: 2, value: 1, label: 1, selected: false, matched: false },
+  { id: 3, value: 1, label: 1, selected: false, matched: false },
+  { id: 4, value: 2, label: 2, selected: false, matched: false },
+  { id: 5, value: 2, label: 2, selected: false, matched: false },
+  { id: 6, value: 3, label: 3, selected: false, matched: false },
+  { id: 7, value: 3, label: 3, selected: false, matched: false },
+  { id: 8, value: 4, label: 4, selected: false, matched: false },
+  { id: 9, value: 4, label: 4, selected: false, matched: false },
+  { id: 10, value: 5, label: 5, selected: false, matched: false },
+  { id: 11, value: 5, label: 5, selected: false, matched: false },
+  { id: 12, value: 6, label: 6, selected: false, matched: false },
+  { id: 13, value: 6, label: 6, selected: false, matched: false },
+  { id: 14, value: 7, label: 7, selected: false, matched: false },
+  { id: 15, value: 7, label: 7, selected: false, matched: false },
+  { id: 16, value: 8, label: 8, selected: false, matched: false },
+  { id: 17, value: 8, label: 8, selected: false, matched: false },
+  { id: 18, value: 9, label: 9, selected: false, matched: false },
+  { id: 19, value: 9, label: 9, selected: false, matched: false },
+  { id: 20, value: 10, label: 10, selected: false, matched: false },
+  { id: 21, value: 10, label: 10, selected: false, matched: false },
+  { id: 22, value: 11, label: 11, selected: false, matched: false },
+  { id: 23, value: 11, label: 11, selected: false, matched: false },
+];
+
+export default data;

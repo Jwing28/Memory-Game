@@ -1,0 +1,18 @@
+:root {
+  --main-app-color: lightseagreen;
+  --dark: #524d4d;
+  --card-color: lightgray;
+}
+
+.Memory {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Memory__title {
+  color: var(--main-app-color);
+  -webkit-box-shadow: 0 4px 6px -6px #222;
+  -moz-box-shadow: 0 4px 6px -6px #222;
+  box-shadow: 0 4px 6px -6px #222;
+  padding-bottom: 0.5rem;
+}

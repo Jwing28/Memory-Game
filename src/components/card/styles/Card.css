@@ -1,0 +1,25 @@
+.Card {
+  background-color: var(--card-color);
+  color: var(--card-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 18vh;
+  width: 9vw;
+}
+
+.Card:hover {
+  outline: 2px solid var(--dark);
+}
+
+.Card--selected {
+  background-color: var(--main-app-color);
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+  outline: 2px solid var(--dark);
+}
+
+.Card--matched {
+  visibility: hidden;
+}
