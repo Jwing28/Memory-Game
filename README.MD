@@ -4,7 +4,7 @@ Web based memory card game
 
 ## Installation
 
-clone down to your local via github
+clone down to your local via github ``` git clone repo url ```
 
 ```bash
 npm install & npm start
