@@ -13,19 +13,15 @@ npm install & npm start
 ## How to play
 
 24 facedown cards
-Click a card, it flips over
+click a card, it flips over
 if equal, they disappear
 if unequal they flip back down
 
-Game ends when no cards are left.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Game ends when no cards are left. 
 
 ## Notes
 
-Things I would add:
+Things I would add with more time:
 
 ```
 * An animation for the card flip
